@@ -1,5 +1,17 @@
 # SUKI — a sari-sari store ledger
 
+> [!NOTE]
+> **This repository has moved and is archived.**
+>
+> The code now lives in **[kim-nejudne/portfolio](https://github.com/kim-nejudne/portfolio/tree/main/suki)**,
+> alongside the five other projects it shipped with. Development continues there;
+> this repository is read-only.
+>
+> The history here is preserved in full, but the commit SHAs differ from the ones
+> in the monorepo: merging six repositories rewrote every commit to place its files
+> under a subdirectory. This copy is the preimage, which is why it is archived
+> rather than deleted.
+
 A ledger and stock app for a sari-sari store in Barangay Daro, Dumaguete. One
 shopkeeper, forty-odd neighbours, run from a counter at the front of a house.
 A *suki* is a regular customer — the standing relationship of trust between a
